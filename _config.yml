@@ -1,4 +1,4 @@
-remote_theme :mattvh/jekyllthemes
+remote_theme: mattvh/jekyllthemes
 name: Jekyll Themes
 url: https://2je.github.io
 description: Insert tagline here
