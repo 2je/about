@@ -1,7 +1,7 @@
 remote_theme : aspirethemes/type
-title:       Type
+title:       2je.about
 email:       ''
-description: ''
+description: '(in)formal side of me'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://2je.github.io' # The base hostname & protocol for your site
 twitter:     ''
