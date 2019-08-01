@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: test page 1
 featured: true
 tags: [frontpage, jekyll, blog]
 ---
