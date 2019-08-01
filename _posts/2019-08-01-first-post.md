@@ -2,7 +2,6 @@
 layout: page
 title: About
 tags: [frontpage, jekyll, blog]
-image: '/images/pages/about.jpeg'
 ---
 
 호호호호호
