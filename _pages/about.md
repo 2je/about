@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/pages/welcome.jpg'
+image: '/images/_pages/schweiz - 253.jpg'
 ---
 
 test
