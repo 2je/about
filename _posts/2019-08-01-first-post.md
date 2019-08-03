@@ -3,6 +3,7 @@ layout: post
 title: test page 1
 featured: true
 tags: [frontpage, jekyll, blog]
+images:'/images/_pages/schweiz - 253.jpg'
 ---
 호호호호호
 
