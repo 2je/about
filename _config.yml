@@ -33,9 +33,15 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
+collections:
+  tags:
+    output: true
+    permalink: /tags/:path/
+    
 # Pages path
 defaults:
   - scope:
-      path: '_pages'
+      path: ''
+      type: tags
     values:
-      permalink: /:basename:output_ext
+      layout:tag
